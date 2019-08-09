@@ -1,6 +1,6 @@
 import React from 'react';
 import GitHub from '../images/GitHub.png';
-import Envelope from '../images/Envelope1.png';
+import Envelope from '../images/Envelope.png';
 
 export default function Footer(){
   return(
