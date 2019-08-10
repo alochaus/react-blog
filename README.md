@@ -54,7 +54,7 @@ CREATE TABLE users(
 );
 ```
 
-Step 3: setting environment variables
+Step 3: setting environment variables  
 Fill the dotenv_example with database information, create a jwtsecretkey and then save the file as ".env".
 
 Example:
