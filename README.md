@@ -10,9 +10,19 @@ Open source blog built with:
 
 ## Screenshot
 ![home-page](/screenshots/home-page.png)
+![entry-example](/screenshots/entry-example.png)
 ![new-entry](/screenshots/new-entry.png)
 ![sign-in](/screenshots/sign-in.png)
 ![sign-up](/screenshots/sign-up.png)
+
+## Features
+- Create and read entries
+- Create users
+- Hashed passwords
+- Token authentication
+- Protected routes
+- Sanitized inputs
+- Entry content accepts html tags so that the user has power to add images, lists and so forth
 
 ## How to install
 
