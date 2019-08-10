@@ -8,7 +8,7 @@ Open source blog built with:
 - **node-postgres** for connecting to the database (PostgreSQL)
 - **SASS** for better css organization and readability
 
-## Screenshot
+## Screenshots
 ![home-page](/screenshots/home-page.png)
 ![entry-example](/screenshots/entry-example.png)
 ![new-entry](/screenshots/new-entry.png)
