@@ -10,6 +10,9 @@ Open source blog built with:
 
 ## Screenshot
 ![home-page](/screenshots/home-page.png)
+![new-entry](/screenshots/new-entry.png)
+![sign-in](/screenshots/sign-in.png)
+![sign-up](/screenshots/sign-up.png)
 
 ## How to install
 
